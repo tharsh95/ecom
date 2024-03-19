@@ -56,13 +56,13 @@ const page = () => {
             />
           </div>
           <div className="mb-8">
-            <button className="bg-black text-white p-4 w-[24rem] rounded-xl">LOGIN</button>
+            <button className="bg-black text-white p-4 w-[24rem] rounded-xl">SIGN UP</button>
           </div>
         </form>
         <div className="flex flex-col items-center">
 
         <div className="border-gray-500 mb-4 border-[1.4px] w-3/4"></div>
-        <div>Have an account?<Link className="ml-4" href="/login">LOGINf</Link></div>
+        <div>Have an account?<Link className="ml-4" href="/login">LOGIN</Link></div>
         </div>
       </div>
     </div>
